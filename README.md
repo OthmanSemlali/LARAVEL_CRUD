@@ -35,9 +35,8 @@ cd LARAVEL_CRUD
 
 3. Install project dependencies
 
-````bash
+```bash
 composer install
-
 ```
 4. Update .env file
 -   [You can use my Existing tables](https://github.com/OthmanSemlali/LARAVEL_CRUD/blob/main/laravel_crud.sql).
@@ -53,8 +52,6 @@ Run the database migrations and seed the database
 ```
 
 7.Start dev server
-````
-
+```
 php artisan serve
-
 ```
