@@ -28,30 +28,29 @@ Follow these steps to set up and run the project locally:
 
 2. Navigate to the project directory:
 
-```bash
-cd LARAVEL_CRUD
-
-```
+    ```bash
+    cd LARAVEL_CRUD
+    ```
 
 3. Install project dependencies
 
-```bash
-composer install
-```
+    ```bash
+    composer install
+    ```
 4. Update .env file
--   [You can use my Existing tables](https://github.com/OthmanSemlali/LARAVEL_CRUD/blob/main/laravel_crud.sql).
+    -   [You can use my Existing tables](https://github.com/OthmanSemlali/LARAVEL_CRUD/blob/main/laravel_crud.sql).
 
 5. Generate the application key:
-```
-php artisan key:generate
-```
+    ```bash
+    php artisan key:generate
+    ```
 
 6. Run the database migrations and seed the database
-```
-Run the database migrations and seed the database
-```
+    ```bash
+    Run the database migrations and seed the database
+    ```
 
 7.Start dev server
-```
-php artisan serve
-```
+    ```bash
+    php artisan serve
+    ```
