@@ -51,6 +51,6 @@ Follow these steps to set up and run the project locally:
     ```
 
 7.Start dev server
-    ```bash
+    ```
     php artisan serve
     ```
