@@ -1,5 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+![preview](https://github.com/OthmanSemlali/LARAVEL_CRUD/blob/main/laravel_crud.PNG)
+
 ## About
 
 Simple Laravel projects, user has multiple posts. Each user can manage their posts. Use can only like post once
